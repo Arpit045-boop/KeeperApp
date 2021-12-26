@@ -1,5 +1,4 @@
 {
-  "homepage": "http://arpit045-boop.github.io/KeeperApp",
   "name": "keeperapp",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "2.0.0-next.3e165448",
+    "react-scripts": "4.0.3",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
@@ -17,8 +16,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
